@@ -1,0 +1,17 @@
+.array-container {
+    /* display: flex;
+    justify-content: center;
+    align-self: center; */
+    position: absolute;
+    top: 50vh;
+}
+
+
+.array-bar{
+    width: 30px;
+    height: 30px;
+    background-color: lightcoral;
+    display: inline;
+    margin: 0 5px;
+
+}
